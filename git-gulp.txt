@@ -1,0 +1,10 @@
+https://chrispennington.blog/blog/20201219-compile-and-minify-scss-with-gulpjs-in-hugo/
+
+https://sanmancreations.medium.com/how-to-convert-scss-to-css-files-using-gulp-ddcc711a091d
+https://zetcode.com/gulp/sass/
+https://jhinter.medium.com/setting-up-gulp-to-compile-scss-in-less-than-5-minutes-fee8bea2b68b
+https://www.youtube.com/watch?v=v0S7Xsje08E
+
+---------------------
+
+https://bobbyhadz.com/blog/npm-warn-old-lockfile-the-package-lock-json-file-was-created
