@@ -47,3 +47,4 @@ Git Resolve Conflicts In Pull Request | Git Conflicts | Git Merge Conflicts
 press i then :wq then enter
 
 ==========================
+testing restore commant on dev branch
